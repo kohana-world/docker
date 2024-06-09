@@ -15,7 +15,7 @@ There will be 4 branches which all server a different purpose:
 ## Using the container images
 
 Using one of the container is quite straight forward.
-The docker repository for them is called `kohanaworld/docker`.
+The docker repository for them is called [kohanaworld/docker](https://hub.docker.com/r/kohanaworld/docker).
 
 By specifying the desired branch as docker-tag you can acquire the desired image.
 
